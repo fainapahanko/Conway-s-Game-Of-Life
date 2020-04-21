@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+    background-color: #181818;
+}
+h1{
+    font-size: 40px;
+    color: White;
+    margin: 0px;
+    margin-top: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+.buttons-div > button{
+    background-color: rgba(255, 255, 255, 0.6);
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    margin: 20px;
+    font-weight: 300;
+    outline: none;
+}
